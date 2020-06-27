@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@foo = DannugViewTool::Renderer.copyright 'Norman Paul Dannug', 'All rights reserved'
+```
 
 ## Development
 
